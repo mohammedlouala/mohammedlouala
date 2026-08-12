@@ -3,6 +3,10 @@
   <h3>Self-taught Data Analyst & Aspiring AI Engineer</h3>
 </div>
 
+<div align="center">
+  <p style="font-size: 32px; font-weight: bold;">Hi 👋, I'm Mohammed</p>
+  <p style="font-size: 18px; color: #586069;">Self-taught Data Analyst & Aspiring AI Engineer</p>
+</div>
 ---
 
 ## 👤 About Me
@@ -17,9 +21,6 @@
 ## 🛠️ Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 ---
 
