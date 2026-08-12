@@ -13,7 +13,7 @@
 - 💬 Ask me about SQL, Python, and data cleaning
 
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 <p>
   <img src="https://cdn.simpleicons.org/python" width="50" />
