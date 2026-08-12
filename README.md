@@ -6,7 +6,7 @@
 
 ---
 
-## 👤 About Me
+# 👤 About Me
 
 - 📍 Based in Algeria
 - ✅ Strong foundation in **SQL**, **Python**
