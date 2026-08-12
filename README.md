@@ -1,7 +1,8 @@
-<div align="center">
-  <p style="font-size: 44px; font-weight: bold;">Hi 👋, I'm Mohammed</p>
-  <p style="font-size: 18px; color: #586069;">Self-taught Data Analyst & Aspiring AI Engineer</p>
-</div>
+<h1 align="center">Hi, I'm Mohammed 👋</h1>
+
+<p align="center">
+  <strong>Aspiring Data Analyst & AI Engineer</strong>
+</p>
 
 ---
 
