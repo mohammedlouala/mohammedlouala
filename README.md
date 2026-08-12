@@ -1,10 +1,14 @@
-Hi 👋, I'm Mohammed
+&lt;h1 align="center"&gt;Hi 👋, I'm Mohammed&lt;/h1&gt;
+&lt;h3 align="center"&gt;Self-taught Data Analyst & Aspiring AI Engineer&lt;/h3&gt;
 
-Self-taught Data Analyst & Aspiring AI Engineer
-
-LinkedIn Profil: www.linkedin.com/in/mohammed-louala-6b9407334
-
-Email: loualamohammed@gmail.com
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/mohammed-louala-6b9407334"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:loualamohammed@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
 ---
 
@@ -29,8 +33,8 @@ Email: loualamohammed@gmail.com
 
 | Repository | Target Skill | Status | Link |
 |------------|-------------|--------|------|
-| **sql-exercises** | Advanced queries, JOINs, CTEs, window functions | ✅ Completed | [View](link) |
-| **python-data-basics** | Syntax, functions, OOP, file handling | 🔄 In Progress | [View](link) |
+| **sql-exercises** | Advanced queries, JOINs, CTEs, window functions | ✅ Completed | [View](https://github.com/mohammedlouala/sql-exercises) |
+| **python-data-basics** | Syntax, functions, OOP, file handling | 🔄 In Progress | [View](https://github.com/mohammedlouala/python-data-basics) |
 | **python-pandas-practice** | DataFrames, groupby, merge, data cleaning | ⏳ Coming Soon | — |
 
 ---
@@ -50,11 +54,11 @@ Email: loualamohammed@gmail.com
 ## 📈 GitHub Stats
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_title=true" alt="stats" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=mohammedlouala&show_icons=true&theme=tokyonight&hide_title=true" alt="stats" /&gt;
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" /&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedlouala&theme=tokyonight" alt="streak" /&gt;
 &lt;/p&gt;
 
 ---
@@ -72,11 +76,11 @@ Email: loualamohammed@gmail.com
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/mohammed-louala-6b9407334)
+- 📧 loualamohammed@gmail.com
 
 ---
 
 &lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" /&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=mohammedlouala&label=Profile%20views&color=0e75b6&style=flat" alt="views" /&gt;
 &lt;/p&gt;
