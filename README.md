@@ -1,13 +1,13 @@
-# Hi 👋, I'm Mohammed
+<div align="center"># Hi 👋, I'm Mohammed
 
-**Self-taught Data Analyst & Aspiring AI Engineer**
+**Self-taught Data Analyst & Aspiring AI Engineer**</div>
 
 ---
 
 ## 👤 About Me
 
 - 📍 Based in Algeria
-- ✅ Strong foundation in **SQL** **Python**
+- ✅ Strong foundation in **SQL**, **Python**
 - 🎯 Goal: Build end-to-end data projects and AI solutions
 - 💬 Ask me about SQL, Python, and data cleaning
 
