@@ -7,11 +7,9 @@
 ## 👤 About Me
 
 - 📍 Based in Algeria
-- 📊 Transitioning into Data Analysis & AI Engineering
-- ✅ Strong foundation in **SQL** (complex queries, JOINs, CTEs, window functions)
-- 🐍 Currently mastering **Python** for data manipulation
+- ✅ Strong foundation in **SQL** **Python**
 - 🎯 Goal: Build end-to-end data projects and AI solutions
-- 💬 Ask me about SQL, Python basics, and data cleaning
+- 💬 Ask me about SQL, Python, and data cleaning
 
 ---
 
