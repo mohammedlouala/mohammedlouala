@@ -1,7 +1,6 @@
 <div align="center">
-# Hi 👋, I'm Mohammed
-
-**Self-taught Data Analyst & Aspiring AI Engineer**
+  <h1>Hi 👋, I'm Mohammed</h1>
+  <h3>Self-taught Data Analyst & Aspiring AI Engineer</h3>
 </div>
 
 ---
@@ -18,7 +17,6 @@
 ## 🛠️ Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
