@@ -1,8 +1,9 @@
 Hi 👋, I'm Mohammed
 Self-taught Data Analyst & Aspiring AI Engineer
 
-LinkedIn Profil: "www.linkedin.com/in/mohammed-louala-6b9407334"
-Email: "loualamohammed@gmail.com"
+LinkedIn Profil: www.linkedin.com/in/mohammed-louala-6b9407334
+
+Email: loualamohammed@gmail.com
 
 ---
 
