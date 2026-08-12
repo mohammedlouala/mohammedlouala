@@ -11,9 +11,8 @@
 - ✅ Strong foundation in **SQL**, **Python**
 - 🎯 Goal: Build end-to-end data projects and AI solutions
 - 💬 Ask me about SQL, Python, and data cleaning
-
-
-<h2>🛠️ Tech Stack</h2>
+<br>
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://cdn.simpleicons.org/python" width="50" />
