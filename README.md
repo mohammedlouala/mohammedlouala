@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 32px; font-weight: bold;">**Hi 👋, I'm Mohammed**</p>
+  <p style="font-size: 44px; font-weight: bold;">Hi 👋, I'm Mohammed</p>
   <p style="font-size: 18px; color: #586069;">Self-taught Data Analyst & Aspiring AI Engineer</p>
 </div>
 
