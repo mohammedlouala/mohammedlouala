@@ -39,7 +39,7 @@
 &gt; You don't need a "monumental" project at the start. A clean, well-explained notebook is worth more than an empty repo.
 
 ### ✅ Completed Projects
-*To be filled as you progress...*
+[*SQL-Data-Warehouse*](https://github.com/mohammedlouala/sql-data-warehouse-project.git)
 
 ### 🔄 Projects In Progress
 *To be filled as you progress...*
