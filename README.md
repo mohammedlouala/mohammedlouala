@@ -1,6 +1,8 @@
 # Hi 👋, I'm Mohammed
 
 **Self-taught Data Analyst & Aspiring AI Engineer**
+---
+About Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-louala-6b9407334)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loualamohammed@gmail.com)
