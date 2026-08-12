@@ -1,9 +1,7 @@
-&lt;div align="center"&gt;
-
 # Hi 👋, I'm Mohammed
 ### Self-taught Data Analyst & Aspiring AI Engineer
 
-&lt;/div&gt;
+
 
 &lt;p align="center"&gt;
   &lt;a href="https://linkedin.com/in/mohammed-louala-6b9407334"&gt;
