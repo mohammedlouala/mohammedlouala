@@ -1,6 +1,8 @@
-<div align="center"># Hi 👋, I'm Mohammed
+<div align="center">
+# Hi 👋, I'm Mohammed
 
-**Self-taught Data Analyst & Aspiring AI Engineer**</div>
+**Self-taught Data Analyst & Aspiring AI Engineer**
+</div>
 
 ---
 
