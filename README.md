@@ -1,4 +1,6 @@
-&lt;h1 align="center"&gt;Hi 👋, I'm Mohammed&lt;/h1&gt;
+&lt;h1 align="center"&gt;
+Hi 👋, I'm Mohammed
+&lt;/h1&gt;
 &lt;h3 align="center"&gt;Self-taught Data Analyst & Aspiring AI Engineer&lt;/h3&gt;
 
 &lt;p align="center"&gt;
