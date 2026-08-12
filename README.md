@@ -18,10 +18,14 @@
 ## 🛠️ Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=python,postgres,git,github&theme=dark)
-<h2>🛠️ Tech Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,numpy,pandas" />
+  <img src="https://cdn.simpleicons.org/python" width="50" />
+  <img src="https://cdn.simpleicons.org/postgresql" width="50" />
+  <img src="https://cdn.simpleicons.org/git" width="50" />
+  <img src="https://cdn.simpleicons.org/github" width="50" />
+  <img src="https://cdn.simpleicons.org/numpy" width="50" />
+  <img src="https://cdn.simpleicons.org/pandas" width="50" />
 </p>
 
 ---
