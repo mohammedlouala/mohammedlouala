@@ -7,7 +7,8 @@
 
 ---
 
-## 🗺️ My Learning Journey
+## <img width="512" height="512" alt="software-application" src="https://github.com/user-attachments/assets/b10a1072-f89b-443f-8d0d-f2d9cb35de88" />
+ Teach Stack
 
 &gt; I document every step of my skill-building. Each ✅ = skill validated through hands-on projects.
 
@@ -24,44 +25,11 @@
 
 ---
 
-## 📂 Learning Repositories
-
-| Repository | Target Skill | Status | Link |
-|------------|-------------|--------|------|
-| **sql-exercises** | Advanced queries, JOINs, CTEs, window functions | ✅ Completed | [View](https://github.com/mohammedlouala/sql-exercises) |
-| **python-data-basics** | Syntax, functions, OOP, file handling | 🔄 In Progress | [View](https://github.com/mohammedlouala/python-data-basics) |
-| **python-pandas-practice** | DataFrames, groupby, merge, data cleaning | ⏳ Coming Soon | — |
-
----
-
-## 🛠️ Hands-On Projects
-
-&gt; You don't need a "monumental" project at the start. A clean, well-explained notebook is worth more than an empty repo.
-
-### ✅ Completed Projects
-[*SQL-Data-Warehouse*](https://github.com/mohammedlouala/sql-data-warehouse-project.git)
-
-### 🔄 Projects In Progress
-*To be filled as you progress...*
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedlouala&show_icons=true&theme=tokyonight&hide_title=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedlouala&theme=tokyonight)
-
----
-
-## 🎯 2026 Goals
-
-- [x] Master SQL (complex queries, optimization)
-- [ ] Master Python for Data
-- [ ] Learn Pandas & NumPy
-- [ ] Build my first dashboard (Power BI or Streamlit)
-- [ ] Complete my first end-to-end ML project
-- [ ] Deploy a project with FastAPI / Streamlit Cloud
 
 ---
 
