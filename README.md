@@ -17,13 +17,13 @@
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,postgres,git,github&theme=dark)
-
 <p>
   <img src="https://cdn.simpleicons.org/python" width="50" />
   <img src="https://cdn.simpleicons.org/postgresql" width="50" />
   <img src="https://cdn.simpleicons.org/git" width="50" />
   <img src="https://cdn.simpleicons.org/github" width="50" />
+  <img src="https://cdn.simpleicons.org/linux" width="50" />
+  <img src="https://cdn.simpleicons.org/gnubash" width="50" />
   <img src="https://cdn.simpleicons.org/numpy" width="50" />
   <img src="https://cdn.simpleicons.org/pandas" width="50" />
 </p>
