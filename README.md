@@ -1,12 +1,8 @@
 <div align="center">
-  <h1>Hi 👋, I'm Mohammed</h1>
-  <h3>Self-taught Data Analyst & Aspiring AI Engineer</h3>
-</div>
-
-<div align="center">
   <p style="font-size: 32px; font-weight: bold;">Hi 👋, I'm Mohammed</p>
   <p style="font-size: 18px; color: #586069;">Self-taught Data Analyst & Aspiring AI Engineer</p>
 </div>
+
 ---
 
 ## 👤 About Me
@@ -20,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,Postgres,git,github,Excel,PowerBi&theme=dark)
 
 ---
 
