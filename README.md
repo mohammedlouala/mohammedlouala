@@ -16,7 +16,31 @@
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,panda,postgres,git,github&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,postgres,git,github&theme=dark)
+
+---
+
+## 🚀 Discover My Work
+
+<div align="center">
+
+[![View All Repos](https://img.shields.io/badge/🔍_View_All_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammedlouala?tab=repositories&type=source)
+
+![Total Repos](https://img.shields.io/github/repos/mohammedlouala?style=flat-square&color=blue)
+![Total Stars](https://img.shields.io/github/stars/mohammedlouala?style=flat-square&color=yellow)
+
+</div>
+
+### 📊 Projects
+| Repository | What I Learned | Tech |
+|------------|----------------|------|
+| [sql-exercises](https://github.com/mohammedlouala/sql-exercises) | Advanced queries, JOINs, CTEs, window functions | SQL |
+| [python-data-basics](https://github.com/mohammedlouala/python-data-basics) | Syntax, functions, OOP, file handling | Python |
+
+### 📚 Course Shares & Notes
+| Repository | Course / Platform | Status |
+|------------|-------------------|--------|
+| *Coming soon* | *Data Analyst Bootcamp notes* | ⏳ — |
 
 ---
 
