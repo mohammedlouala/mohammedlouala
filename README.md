@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,Postgres,git,github,Excel,PowerBi&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,postgres,git,github,excel,powerbi&theme=dark)
 
 ---
 
