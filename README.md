@@ -22,19 +22,10 @@
   <img src="https://cdn.simpleicons.org/postgresql" width="50" />
   <img src="https://cdn.simpleicons.org/git" width="50" />
   <img src="https://cdn.simpleicons.org/github" width="50" />
-  <img src="https://cdn.simpleicons.org/linux" width="50" />
   <img src="https://cdn.simpleicons.org/gnubash" width="50" />
   <img src="https://cdn.simpleicons.org/numpy" width="50" />
   <img src="https://cdn.simpleicons.org/pandas" width="50" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedlouala&show_icons=true&theme=tokyonight&hide_title=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammedlouala&theme=tokyonight)
 
 ---
 
