@@ -1,14 +1,8 @@
-&lt;h1 align="center"&gt;Hi, I'm [Your Name] 👋&lt;/h1&gt;
-&lt;h3 align="center"&gt;Self-taught Data Analyst & Aspiring AI Engineer&lt;/h3&gt;
+Hi 👋, I'm Mohammed
+Self-taught Data Analyst & Aspiring AI Engineer
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/yourprofile"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:your.email@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+LinkedIn Profil: "www.linkedin.com/in/mohammed-louala-6b9407334"
+Email: "loualamohammed@gmail.com"
 
 ---
 
