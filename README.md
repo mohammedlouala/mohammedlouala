@@ -4,7 +4,6 @@
   <strong>Aspiring Data Analyst & AI Engineer</strong>
 </p>
 
----
 
 ## 👤 About Me
 
@@ -13,7 +12,6 @@
 - 🎯 Goal: Build end-to-end data projects and AI solutions
 - 💬 Ask me about SQL, Python, and data cleaning
 
----
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +25,6 @@
   <img src="https://cdn.simpleicons.org/pandas" width="50" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
