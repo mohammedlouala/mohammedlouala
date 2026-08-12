@@ -16,7 +16,9 @@
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,postgres,git,github,excel,powerbi&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,postgres,git,github&theme=dark)
+![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 ---
 
