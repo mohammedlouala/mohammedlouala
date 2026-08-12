@@ -13,8 +13,6 @@ Email: loualamohammed@gmail.com
 
 ### ✅ Acquired — Job Ready
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-&lt;!-- COPY/PASTE YOUR NEXT COMPLETED SKILLS HERE --&gt;
-&lt;!-- Example: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) --&gt;
 
 ### 🔄 Currently Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
