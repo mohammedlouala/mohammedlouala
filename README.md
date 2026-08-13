@@ -9,6 +9,9 @@ my progress over time.
 ## What I've built
 
 - [SQL Data Warehouse](https://github.com/mohammedlouala/sql-data-warehouse-project) — SQL data warehouse project focused on database design, data integration, transformation, and analytical queries.
+- [SQL Data Warehouse](https://github.com/mohammedlouala/sql-data-warehouse-project) ⭐ ![GitHub stars](https://img.shields.io/github/stars/mohammedlouala/sql-data-warehouse-project?style=flat)
+- - [SQL Data Warehouse](https://github.com/mohammedlouala/sql-data-warehouse-project) — SQL data warehouse project focused on database design, data integration, transformation, and analytical queries.  
+  ![GitHub stars](https://img.shields.io/github/stars/mohammedlouala/sql-data-warehouse-project?style=flat)
 
 ## Connect With Me
 
