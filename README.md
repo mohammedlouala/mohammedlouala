@@ -13,8 +13,9 @@ my progress over time.
 
 ## What I've built
 
-[SQL Data Warehouse](https://github.com/mohammedlouala/sql-data-warehouse-project)
 - [**SQL Data Warehouse**](https://github.com/mohammedlouala/sql-data-warehouse-project) — A SQL data warehouse project focused on database design, data integration, transformation, and analytical queries.
+
+
 ## Contributing to
 
 ## Writing
