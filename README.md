@@ -14,6 +14,7 @@ my progress over time.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-louala-6b9407334)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loualamohammed@gmail.com)
+
 <a href="https://linkedin.com/in/mohammed-louala-6b9407334">
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35">
 </a>
