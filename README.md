@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Mohammed 👋</h1>
+# Hey, I'm Mohammed 👋
 
-<p align="center">
-  <strong>Aspiring Data Analyst & AI Engineer</strong>
-</p>
+**Aspiring Data Analyst & AI Engineer**
 
 <br>
 
