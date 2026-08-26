@@ -1,6 +1,6 @@
 # Hey, I'm Mohammed 👋
 
-**Aspiring Data Analyst & AI Engineer**
+**Aspiring Data Engineer & AI Engineer**
 
 I believe in learning by building, so I use my repositories
 to practice concepts, experiment with new ideas, and track
