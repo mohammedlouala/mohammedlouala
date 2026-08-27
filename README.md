@@ -9,6 +9,7 @@ my progress over time.
 ## What I've built
 
 - [SQL Data Warehouse](https://github.com/mohammedlouala/sql-data-warehouse-project) — SQL data warehouse project focused on database design, data integration, transformation, and analytical queries.
+- [ETL Pipeline](https://github.com/mohammedlouala/DummyJSON-ETL-Pipeline) — Python ETL pipeline using REST API, Pandas, and PostgreSQL.
 
 ## Connect With Me
 
